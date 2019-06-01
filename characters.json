@@ -1,0 +1,58 @@
+[
+    {
+        "routeName": "yoda",
+        "name": "Yoda",
+        "role": "Jedi Master",
+        "age": 900,
+        "forcePoints": 2000
+    },
+    {
+        "routeName": "darthmaul",
+        "name": "Darth Maul",
+        "role": "Sith Lord",
+        "age": 200,
+        "forcePoints": 1200
+    },
+    {
+        "routeName": "obiwankenobi",
+        "name": "Obi Wan Kenobi",
+        "role": "Jedi Master",
+        "age": 55,
+        "forcePoints": 1350
+    },
+    {
+        "routeName": "jason",
+        "name": "jason",
+        "role": "file",
+        "age": "34",
+        "forcePoints": "9309"
+    },
+    {
+        "name": "john",
+        "role": "assassin",
+        "age": "56",
+        "forcePoints": "100000",
+        "routeName": "john"
+    },
+    {
+        "name": "john wick",
+        "role": "assassin",
+        "age": "56",
+        "forcePoints": "1000003",
+        "routeName": "john-wick"
+    },
+    {
+        "name": "morgan freeman",
+        "role": "voice man",
+        "age": "80",
+        "forcePoints": "1000",
+        "routeName": "morgan-freeman"
+    },
+    {
+        "name": "stuff",
+        "role": "fluff",
+        "age": "12",
+        "forcePoints": "321",
+        "routeName": "stuff"
+    }
+]
